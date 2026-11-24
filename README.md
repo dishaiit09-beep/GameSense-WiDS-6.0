@@ -36,16 +36,5 @@
 
 **Stretch goals only after the core works:** Double DQN, changed pipe gaps, a polished dashboard or a human-play mode.
 
-## 📚 Week 1 quick access
 
-- **Read:** [Start-to-finish Week 1 Google Doc](https://docs.google.com/document/d/1ooopqDUiiGSvQ9Zh6pKobe8IPoPcbLI4XPvaCYBKjCQ/edit?usp=drivesdk)
-- **Do:** [Week 1 practical and one check-in](week-01/README.md)
-- **Set up:** [Environment and troubleshooting](week-01/SETUP.md)
-- **Run:** [Environment inspection](scripts/week01_inspect_env.py), [Random agent](scripts/week01_random_agent.py), [Plot results](scripts/week01_plot_results.py)
-- **External:** [Hugging Face Unit 1](https://huggingface.co/learn/deep-rl-course/en/unit1/introduction) · [Gymnasium Basics](https://gymnasium.farama.org/main/introduction/basic_usage/) · [Flappy Bird Gymnasium](https://github.com/markub3327/flappy-bird-gymnasium)
 
-### Transparency about Google Docs access
-The learning Docs were created successfully, but the connected Drive account **did not allow automatic institute-wide sharing**. The mentor must open each Doc's **Share → General access** settings, set **Anyone with the link → Viewer** if permitted (or explicitly grant mentees access), and test from a second account before circulating the repository.
-
-## 🤝 Collaboration
-Mentees will work on the same codebase, use GitHub Issues for bugs/questions and make small pull requests. Do **not** post passwords or API keys. You need basic Python, not prior RL or deep learning experience.
